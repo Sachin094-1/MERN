@@ -1,0 +1,10 @@
+// console.log("Hello world!!");
+// console.log(a);
+// var a =3;
+// let a = 4;
+// a = 3;
+// console.log(a);
+// let firstName = "Prince";
+// let age = 23;
+// let isMarried = false;
+// console.log("this person name is " + firstName + "his age is" + age + "is married" + isMarried);
