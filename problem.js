@@ -11,6 +11,10 @@
 //         let number = i;
 //         console.log(number);
 // }
+// for(let i = 30; i >=0 ; i-- ){
+//     // let number = i;
+//     console.log(i);
+// }
 
 // Write a program that greets hello on the basis of their gender.
 // let gender = "male";
@@ -75,7 +79,13 @@
 // arr.reverse();
 // console.log(arr);
 
-//
+// Counter create in js
+let counter = 30;
+
+while(counter>= 0){
+    console.log(counter);
+    counter--;
+}
 
 
 
