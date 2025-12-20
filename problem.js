@@ -80,12 +80,39 @@
 // console.log(arr);
 
 // Counter create in js
-let counter = 30;
+// let counter = 30;
 
-while(counter>= 0){
-    console.log(counter);
-    counter--;
-}
+// while(counter>= 0){
+//     console.log(counter);
+//     counter--;
+// }
+
+// Create a terminal clock in JS
+
+// Callback function
+// function rectangle(a){
+//     return a ;
+// }
+// function sumOfSomething(a , b , fn){
+//     const val1 = fn(a);
+//     const val2 = fn(b);
+//     return val1 + val2;
+// }
+//  console.log(sumOfSomething(2 , 4 , rectangle ));
+
+//Anonymous Function
+// function sumOfSomething(a,b,fn){
+//     const val1 = fn(a);
+//     const val2 = fn(b);
+//     return val1 + val2;
+// }
+// const ans = sumOfSomething(6,7, function(n){
+//     return n*n;
+// })
+// console.log(ans);
+
+
+
 
 
 
