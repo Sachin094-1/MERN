@@ -6,7 +6,7 @@
 48D:\MERN\React\node_modules\@parcel\profiler\test134146010746464555 1
 47D:\MERN\React\node_modules\type-fest\index.d.ts134146010737715960 0
 60D:\MERN\React\node_modules\caniuse-lite\data\features\ime.js134146010765692415 0
-26D:\MERN\React\package.json134146034070634878 0
+26D:\MERN\React\package.json134155730233061448 0
 36D:\MERN\React\node_modules\picomatch134146010736618347 1
 47D:\MERN\React\node_modules\browserslist\LICENSE134146010733703207 0
 58D:\MERN\React\node_modules\caniuse-lite\data\regions\CR.js134146010751332382 0
